@@ -1,0 +1,8 @@
+# IDEA
+.idea
+*.iml
+# other
+target
+# compiled angular
+/src/main/webapp/*.*
+/src/main/webapp/assets
